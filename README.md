@@ -1,6 +1,6 @@
 # Project Title
 
-A simple wave effect used as the foundation for the Cobble Stone street effect in Heinekin Past Eperience TVC. This project can be found on my website.
+A simple wave effect used as the foundation for the Cobble Stone street effect in Heineken Past Experience TVC. This project can be found on my website.
 
 ## Getting Started
 
