@@ -18,6 +18,8 @@ On the "guide" nurbs surface there are some animation curves that drive the perf
 
 Other variables in the expression can be tweaked such as "$turnover_frames" which will set how many frames the entire flip animation will take place over.
 
+NB. Parallel evaluation mode (under animation settings) will not update the viewport correctly in some versions of Maya. Switch to DG mode to view the performance.
+
 ## Built With
 
 Autodesk Maya
